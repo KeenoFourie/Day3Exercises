@@ -21,3 +21,6 @@ console.log(typeof surname);
 
 let color = null;
 console.log(typeof color);
+
+let subject = ['pink', 'red', 'orange'];
+console.log(typeof subject);
