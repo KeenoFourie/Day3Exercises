@@ -1,9 +1,9 @@
 // Question 1
-// let name = "Keeno";
-// console.log(typeof name);
+let name = "Keeno";
+console.log(typeof name);
 
 // Question 2
-let name = 7;
+name = 7;
 console.log(typeof name);
 
 // Question 3
